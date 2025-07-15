@@ -1,0 +1,14 @@
+# Ignorar arquivos e pastas do Node.js
+node_modules/
+dist/
+*.log
+*.env
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.sqlite
+*.db
+*.tgz
+*.zip
+*.tar.gz  
